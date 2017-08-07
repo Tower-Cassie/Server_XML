@@ -1,0 +1,12 @@
+<person>
+	<server>
+		<name>贾宝玉</name>
+		<age>20</age>
+	</server>
+	
+	<server>
+		<name>林黛玉</name>
+		<age>16</age>
+	</server>
+	
+</person>
